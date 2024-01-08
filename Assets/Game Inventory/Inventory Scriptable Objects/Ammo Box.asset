@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0900e5ca78a0fa6448b361fcd3bc5a3f, type: 3}
+  m_Name: Ammo Box
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Ammo Box
+  icon: {fileID: 21300000, guid: 6a246b159c10e6143b61cdad9d6a78d0, type: 3}
+  prefab: {fileID: 7215697040272001046, guid: ee19b96e94dc1224492617feabda9afb, type: 3}
+  value: 30
+  type: 3
+  count: 0
+  isDefaultItem: 0
